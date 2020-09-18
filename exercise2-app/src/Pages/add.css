@@ -1,0 +1,25 @@
+.Add{
+  width : 50%;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  color: #ffffff;
+  background-color: #212529;
+  text-align: center
+}
+h2{
+  padding: 20px
+}
+
+.Add-form{
+  width : 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  color : #ffffff;
+  background-color: #212529
+}
+.Btn{
+  width: 160px;
+}

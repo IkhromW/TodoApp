@@ -1,0 +1,31 @@
+.ToDo{
+  width: 50%;
+  margin-top : 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+thead, th{
+  text-align: justify;
+}
+td{
+  width: auto;
+}
+.Edit{
+  margin-right: 10px
+}
+.Action {
+  width: 200px
+}
+.Number {
+  width: 10px;
+  text-align: center;
+}
+.Date {
+  width: 180px;
+  text-align: left;
+}
+thead{
+  text-align: center;
+}
